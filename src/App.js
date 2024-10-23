@@ -46,7 +46,7 @@ const App = () => (
           level={5}
           style={{ color: "white", textAlign: "center" }}
         >
-          Copyright © 2023
+          Copyright © 2024
           <Link to="/">Crypto Lok Inc.</Link> <br />
           All Rights Reserved.
         </Typography.Title>
